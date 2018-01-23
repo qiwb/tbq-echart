@@ -4,7 +4,7 @@
   "description":"Angular directive for ECharts 3",
   "repository": {
     "type": "git",
-    "url": "tbq@192.168.91.90:/home/tbq/npm-register/tbq-echart.git"
+    "url": "https://github.com/qiwb/tbq-echart.git"
   },
   "keywords":["angular","2","4","5","echarts","ng","ngx","ng2"],
   "peerDependencies":{
